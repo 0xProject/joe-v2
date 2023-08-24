@@ -1,0 +1,9 @@
+{
+    "name": "joe-v2",
+    "version": "0.0.0",
+    "private": false,
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "packageManager": "yarn@3.6.3"
+}
